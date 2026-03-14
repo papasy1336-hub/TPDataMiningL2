@@ -1,0 +1,5 @@
+[
+ {"id": 1, "title": "Data Mining", "views": 100},
+ {"id": 2, "title": "Machine Learning", "views": 150},
+ {"id": 3, "title": "Artificial Intelligence", "views": 200}
+]
